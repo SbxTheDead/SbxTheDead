@@ -12,7 +12,7 @@
 │   ai + embedded systems · security research                      │
 │                                                                  │
 │   18 · CS @ Harbin Institute of Technology (full scholarship)    │
-│   CTO @ Lynx Layers · founder @ Ares Hosting                     │
+│   CTO @ Lynx Layers                     │
 │                                                                  │
 │   "I build the layers under the layers."                         │
 │                                                                  │
