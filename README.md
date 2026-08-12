@@ -11,7 +11,7 @@
 │   cloud engineer · hosting operator                              │
 │   ai + embedded systems · security research                      │
 │                                                                  │
-│   18 · CS @ Harbin Institute of Technology (full scholarship)    │
+│   18 · CS @ Harbin Institute of Technology     │
 │   CTO @ Lynx Layers                     
 │                                                                  │
 │   "I build the layers under the layers."                         │
